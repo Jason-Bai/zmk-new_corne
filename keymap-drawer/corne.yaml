@@ -70,11 +70,11 @@ layers:
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
   - {h: '4', s: '$$mdi:bluetooth-connect$$'}
   - {t: '$$mdi:transfer$$', type: trans}
+  - HOME
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-right-bold$$
-  - HOME
   - PG UP
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB OFF
@@ -83,11 +83,11 @@ layers:
   - EP ON
   - RGB EFF
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB EFR
+  - END
   - RGB SPI
   - RGB BRI
   - RGB BRD
-  - END
+  - RGB EFR
   - PG DN
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
